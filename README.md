@@ -1,6 +1,6 @@
 ## LitMotionSampleProject
 
-zennにて公開している本「LitMotionCookbook」で使用しているサンプルプロジェクトの一部です。
+zennにて公開している本「[LitMotion_Guidebook](https://zenn.dev/qemel/books/cd6dc0aec66b61)」で使用しているサンプルプロジェクトの一部です。
 
 ## ソースコード
 
